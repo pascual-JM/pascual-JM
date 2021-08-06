@@ -17,4 +17,5 @@
 I'm Currently a Student at STI College Meycauayan, living in Valenzuela, Philippines. I loved to read manhwas, watch animes, build apps, games and other stuff that involves programming.
 
 <h2>How to Reach Me:🔎</h2>
-<a href="mailto:mrpascual495@gmail.com">![mrpascual495@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+  <a href="mailto:YourEmail@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
