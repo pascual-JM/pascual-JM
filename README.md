@@ -18,4 +18,4 @@ I'm Currently a Student at STI College Meycauayan, living in Valenzuela, Philipp
 
 <h2>How to Reach Me🔎:</h2>
 
-  <a href="mailto:YourEmail@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="mailto:mrpascual495@gmail.com">![mrpascual495@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
