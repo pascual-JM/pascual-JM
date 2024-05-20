@@ -12,7 +12,7 @@ A Software Engineer, Android Developer, Fullstack Web Developer from the Philipp
   - <i>Currently: </i>How to Develop Dynamic Mobile and Web Apps.
   - <i>Currently: </i>How to Develop a Simple Mobile and PC Games.
   - <i>Previously: </i>2d and 3d Digital Arts.
-  
+
 <h2>Short Info about Me⚡:</h2>
 I'm Currently a Student at STI College Meycauayan, living in Valenzuela, Philippines. I loved to read manhwas, watch animes, build apps, games and other stuff that involves programming.
 
